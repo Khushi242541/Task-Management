@@ -40,6 +40,7 @@ This is a full-stack **Task Management** web application built using **Vue.js** 
 Then open: `http://localhost:5173`
 
 ### 📂 Folder Structure
+```
 task-app/
 ├── backend/       # Node + Express + MongoDB (API)
 │   ├── models/
