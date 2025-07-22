@@ -35,31 +35,11 @@ This is a full-stack **Task Management** web application built using **Vue.js** 
 
 ### 🛠️ Installation & Run Locally
 
-#### 📦 Backend
-
-```bash
-cd backend
-npm install
-node server.js
-```
-
 > Make sure MongoDB is running locally or update the connection URI to MongoDB Atlas if using cloud.
-
-#### 💻 Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
 
 Then open: `http://localhost:5173`
 
----
-
 ### 📂 Folder Structure
-
-```
 task-app/
 ├── backend/       # Node + Express + MongoDB (API)
 │   ├── models/
@@ -70,9 +50,6 @@ task-app/
     ├── components/
     └── views/
 ```
-
----
-
 ### 🌐 API Endpoints
 
 | Method | Endpoint         | Description       |
@@ -83,16 +60,13 @@ task-app/
 | DELETE | `/api/tasks/:id` | Delete a task     |
 
 ---
-
 ### 📌 To Do / Future Improvements
 
 * Add user authentication (JWT)
 * Task filters: completed/pending
 * Drag-and-drop task sorting
 * Responsive mobile UI
-
 ---
-
 ### 👤 Author
 
 > Developed by \[Khushi Kashyap]
