@@ -71,6 +71,6 @@ task-app/
 ### 👤 Author
 
 > Developed by \[Khushi Kashyap]
-> GitHub: [@khushikashyap125](https://github.com/yourgithub)
+
 
 
